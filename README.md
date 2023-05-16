@@ -18,4 +18,4 @@ Make sure to setup the openai key in create_csv_agent function
 
 ### Demo link
 
-https://thesamur.ai/
+https://chatcsv.thesamur.ai/
