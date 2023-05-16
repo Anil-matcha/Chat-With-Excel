@@ -19,3 +19,9 @@ Make sure to setup the openai key in create_csv_agent function
 ### Demo link
 
 https://chatcsv.thesamur.ai/
+
+### Also check
+
+[Chat with Website code](https://github.com/Anil-matcha/Website-to-Chatbot)
+
+[Chat with PDF code](https://github.com/Anil-matcha/ChatPDF)
