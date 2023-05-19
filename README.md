@@ -25,3 +25,5 @@ https://chatcsv.thesamur.ai/
 [Chat with Website code](https://github.com/Anil-matcha/Website-to-Chatbot)
 
 [Chat with PDF code](https://github.com/Anil-matcha/ChatPDF)
+
+[Chat with Youtube code](https://github.com/Anil-matcha/Chat-Youtube)
